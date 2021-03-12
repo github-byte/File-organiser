@@ -1,0 +1,22 @@
+{
+  "name": "hw12mar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-byte/File-organiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github-byte/File-organiser/issues"
+  },
+  "homepage": "https://github.com/github-byte/File-organiser#readme"
+}
